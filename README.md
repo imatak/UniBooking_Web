@@ -1,2 +1,4 @@
-# UniBooking_Web
-Web aplikacija UniBooking za zaposlenike referade
+# UniBooking
+
+Aplikacija za rezrvaciju termina u referadama
+
